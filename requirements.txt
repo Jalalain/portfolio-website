@@ -1,6 +1,6 @@
 pylint
 pytest
 black
-pytest -cov
+pytest-cov
 click
-cs50
+Django
